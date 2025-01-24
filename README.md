@@ -24,3 +24,7 @@ Install the toolbox using the exe files from one of the folders. Note, these bot
 2. **for_redistribution_files_only folder** contains only the necessary installation files for LOTUS reader. Use this if you already have Matlab compiler runtime installed.
 
 N.B. Prior to using this compiled version, you may also need to ensure that Python and Avro python library are installed as required in the [installation instructions for LOTUS in the main repository](https://github.com/jack-fogarty/LOTUS).
+<br>
+
+# What is Upcoming
+The compiled file currently only installs the LOTUS reader. A compiled version of LOTUS analyser will be added in the near future.
